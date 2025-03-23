@@ -1,1 +1,1 @@
-# Anla organization profile description
+The description of the organization profile
